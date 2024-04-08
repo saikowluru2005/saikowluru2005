@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Android Development, Devops, DSA**
 
-- 📫 How to reach me **https://www.linkedin.com/in/kowluru-sai-522032261/**
+- 📫 How to reach me **saikowluru3@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
