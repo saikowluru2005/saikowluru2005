@@ -23,6 +23,12 @@ I’m currently working on ReactJS, NodeJS, other stuff
 
 <p align="left"> <a href="https://www.github.com/saikowluru2005" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
 
+<p align="left"> <a href="https://medium.com/@saikowluru3" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://www.underconsideration.com/brandnew/archives/medium_2017_monogram.png" /> <source media="(prefers-color-scheme: light)" srcset="https://www.underconsideration.com/brandnew/archives/medium_2017_monogram.png" /> <img src="https://www.underconsideration.com/brandnew/archives/medium_2017_monogram.png" width="32" height="32" /> </picture> </a></p>
+
+
+
+
+
 ### Badges
 
 <b>My GitHub Stats</b>
